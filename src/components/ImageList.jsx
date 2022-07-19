@@ -29,6 +29,7 @@ export function ImageList() {
 
 	return (
 		<>
+			<h2><a href="https://github.com/Alexxxsandoor/task-2">Git Repo</a></h2>
 			<h1>
 				{imgList.length} картинок,
 				Время:{new Date().toLocaleString()}
